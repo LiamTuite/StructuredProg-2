@@ -1,4 +1,9 @@
 //Exercise2.java
+//
+// JAVA!
+//
+//
+
 /*This programme declares variables of different types for storing the
  *details of a book, and then gets the user to input values for the variables*/
  
